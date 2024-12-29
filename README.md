@@ -17,7 +17,13 @@ This project includes a Solidity smart contract, `SolWallet`, which allows the c
 2. **Ganache**: This project assumes you're using Ganache as a local Ethereum blockchain. Download and install it from [Ganache](https://www.trufflesuite.com/ganache).
 3. **Web3.js**: This project uses Web3.js to interact with the Ethereum blockchain.
 4. **Metamask**: This project can connect to metamask wallet through localhost and Ganache
-   
+
+## Features
+- **Receive Ether**: The contract can accept and store Ether.
+- **Check Balance**: Check the current balance of the contract.
+- **Withdraw Funds**: The owner can withdraw all stored Ether.
+- **Send to Metamask**: Directly send Ether to an external wallet.
+  
 ## Examples
 
 In code we have some functionality like deploying contract and interact with him like was stated above
