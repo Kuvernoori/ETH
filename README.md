@@ -11,5 +11,7 @@ This project includes a Solidity smart contract, `SolWallet`, which allows the c
 - Check the contract's balance.
 - Withdraw ETH from the contract.
 
+## Examples
 
+In code we have some functionality like deploying contract and interact with him like was stated above
 
