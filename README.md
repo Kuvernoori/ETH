@@ -18,11 +18,13 @@ This project includes a Solidity smart contract, `SolWallet`, which allows the c
 3. **Web3.js**: This project uses Web3.js to interact with the Ethereum blockchain.
 4. **Metamask**: This project can connect to metamask wallet through localhost and Ganache
 
-## Features
-- **Receive Ether**: The contract can accept and store Ether.
-- **Check Balance**: Check the current balance of the contract.
-- **Withdraw Funds**: The owner can withdraw all stored Ether.
-- **Send to Metamask**: Directly send Ether to an external wallet.
+## Features  
+- **Transfer to External Wallet**: Send Ether directly to a Metamask or other external wallet. 
+- **Ether Deposits**: The contract allows receiving and securely storing Ether.  
+- **Balance Inquiry**: Easily view the contract's current Ether balance.  
+- **Owner Withdrawals**: Only the contract owner can withdraw all stored Ether.  
+ 
+
   
 ## Examples
 
