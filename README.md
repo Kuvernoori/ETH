@@ -1,4 +1,5 @@
 SolWallet - Ethereum Smart Contract Wallet made on Solidity
+
 A simple Ethereum smart contract wallet deployed on a local blockchain (Ganache) for handling ETH deposits, balance checks, and withdrawals.
 
 Usage
