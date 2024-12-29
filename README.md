@@ -17,3 +17,4 @@ This project includes a Solidity smart contract, `SolWallet`, which allows the c
 3. **Web3.js**: This project uses Web3.js to interact with the Ethereum blockchain.
 
 
+![Demo Screenshot](metamask.png)
